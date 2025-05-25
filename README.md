@@ -13,7 +13,7 @@ This is a Spring Boot project designed to manage student course registration wit
 - Java 17
 - Spring Boot
 - Spring Security + JWT
-- MySQL/PostgreSQL
+- MySQL
 - Swagger UI (Springdoc)
 - Maven
 
